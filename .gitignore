@@ -1,7 +1,5 @@
 /**/Release
+/**/Debug
 /**/.vs
-/**/*.vcxproj
-/**/*.filters
-/**/*.user
 /**/*.rc
 /**/*.aps
